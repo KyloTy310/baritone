@@ -84,7 +84,7 @@ the original version of the bot for Minecraft 1.8.9, rebuilt for 1.12.2 onwards.
 
 Have committed at least once a day from Aug 1, 2018, to Aug 1, 2019.
 
-1Leijurv3DWTrGAfmmiTphjhXLvQiHg7K2
+1Leijurv3DWTrGAfmmiTphjhXLvQiHg7K2   
 
 # Getting Started
 
